@@ -4,7 +4,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "neopixel": "github:lzty634158/pxt-neopixel",
+        "ghbit": "github:lzty634158/ghbit"
     },
     "files": [
         "README.md",
@@ -14,5 +15,6 @@
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "preferredEditor": "tsprj",
+    "installedVersion": "workspace:e1ca8b1f-ac0b-4b67-8f34-203eb8e9a01e"
 }
